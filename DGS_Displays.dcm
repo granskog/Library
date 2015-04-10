@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7-Segment-4Digit-Clock
+D 7 segments display - Common anods
+K DISPLAY LED
+$ENDCMP
+#
+$CMP SCDQ554XX
+D Osram 4-character 5x5 dot matrix display.
+K Dot matrix, display, osram.
+$ENDCMP
+#
+#End Doc Library

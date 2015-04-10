@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Hex_Schmitt-Trigger
+D Hex Schmitt-Trigger
+K CMOS
+$ENDCMP
+#
+#End Doc Library

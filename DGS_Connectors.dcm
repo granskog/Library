@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RPI_B_GPIO_Connector
+D Raspberry PI B 26-pin Expansion Header
+$ENDCMP
+#
+#End Doc Library
