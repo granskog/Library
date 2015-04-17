@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BARREL_JACK_2P
+D DC Barrel Jack
+$ENDCMP
+#
 $CMP RPI_B_GPIO_Connector
 D Raspberry PI B 26-pin Expansion Header
 $ENDCMP
