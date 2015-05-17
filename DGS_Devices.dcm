@@ -5,4 +5,21 @@ D Hex Schmitt-Trigger
 K CMOS
 $ENDCMP
 #
+$CMP PIC16F628-I/SO
+D PIC16F631, 1024W Flash, 64B SRAM, 128B EEPROM, SO20
+K Flash-Based 8-Bit CMOS Microcontroller nanoWatt
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf
+$ENDCMP
+#
+$CMP TDA7050
+D TDA7050, low voltage mono/stereo power amplifier.
+K TDA2003V Amplifier
+$ENDCMP
+#
+$CMP TEA5711
+D AM/FM stereo radio integrated circuit.
+K AM FM Radio stereo portable battery
+F http://www.labkit.ru/userfiles/file/documentation/Radio_doc/TEA5711.pdf
+$ENDCMP
+#
 #End Doc Library
